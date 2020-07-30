@@ -14,7 +14,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 1. Acesse o diretório do projeto;
 2. Execute `npm install` para instalar as dependências do projeto;
-3. Execute `npm start` para iniciar o servidor de desenvolvimento.
+3. Execute `npm run dev` para iniciar o servidor de desenvolvimento.
 
 ## :memo: Licença
 
